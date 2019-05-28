@@ -1,6 +1,6 @@
 ## LibriSpeech (960h)
 
-90 epochs
+90 epochs (\alpha 0.9, \beta 0.3 \width 512)
 
 |      | test-clean %WER | test-others %WER | 
 |:-------|-------:|:------:|
