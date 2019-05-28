@@ -4,8 +4,8 @@
 
 |      | test-clean %WER | test-others %WER | 
 |:-------|-------:|:------:|
-| Facebook's ConvNet + 4-gram LM  | 4.8 	| 14.5 |
-| Goole's SpecAugment + LAS + unknown LM | 2.5 |  5.8 |
+| Facebook's ConvNet + 4-gram LM (2017) | 4.8 	| 14.5 |
+| Goole's SpecAugment + LAS + unknown LM (2019) | 2.5 |  5.8 |
 | | | |
 | SpecAugment + CTC + greedy   |   6.2   |   18.4    |
 | SpecAugment + CTC + 4-gram LM    |   4.2    |   12.6    |
